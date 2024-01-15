@@ -1,4 +1,5 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Yuvraj Saraogi</h1>
+<h3 align="center">A Passionated Data Analyst from India</h3>
 
 <!--
 **yuvrajsaraogi/yuvrajsaraogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
